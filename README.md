@@ -4,7 +4,7 @@ Saya Muhammad Alfi Fariz dengan NIM 2311174 mengerjakan TP 7 dalam mata kuliah D
 # Desain Program
 ![Screenshot 2025-04-20 001335](https://github.com/user-attachments/assets/30c75739-12d8-4999-ab3b-42a1e2ee9239)
 
-Struktur Tabel
+Disini saya membuat web tentang Sistem Peminjaman Alat Olahraga untuk struktur tabel nya seperti ini
 
 a. equipment (alat olahraga)
 - id (PK)
